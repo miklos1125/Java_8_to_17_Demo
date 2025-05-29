@@ -22,4 +22,4 @@ Java 17, which is the current industry-standard LTS (Long-Term Support) version:
 Technology:
 This program uses java 17. If you have older version of java, it won't compile.
 
-To run it online, use https://www.jdoodle.com/online-java-compiler. 
+To run it online, use https://www.jdoodle.com/online-java-compiler. (Copy/paste the code.)

@@ -3,10 +3,10 @@
 Demonstration of language features introduced between
 
 Java 8 – which is an old friend by now – marked a turning point in modern Java development.
-- Lambdas and functional programming constructs  **not added yet**
-- Streams for powerful collection processing  **not added yet**
+- Lambdas and functional programming constructs  //**not added yet**
+- Streams for powerful collection processing  //**not added yet**
 - Optional for safer null handling
-- Default and static methods in interfaces  **not added yet**
+- Default and static methods in interfaces  //**not added yet**
 
 and 
 

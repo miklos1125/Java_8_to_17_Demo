@@ -13,8 +13,9 @@ and Java 17, which is the current industry-standard LTS (Long-Term Support) vers
 - sealed classes: controlled inheritance (Java 17)
 - instanceof pattern matching (Java 16)
 - Files.writeString(): simplified file writing (Java 11)
-import java.util.Scanner;
 */
+
+import java.util.Scanner;
 import java.time.LocalDate;
 import java.util.Optional;
 import java.nio.file.Files;
